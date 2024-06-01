@@ -14,11 +14,14 @@ For the sake of pronounciation and readability, we often shorten TALE4GDA into T
 | **End** | Septembre 2027 |
 
 ## Collaborators
-This project involves four majors collaborators:
+This project involves these collaborators:
 * IMT Nord Europe (France)
 * Le Mans Université (France)
 * Université de Lorraine (France)
+* Université de Lille (France)
 * Haute École Pédagogique (Switzerland)
+
+Recently, Nadine Mandran (Université Grenoble Alpes) joined us to work on a new version of THEDRE.
 
 ## What to found in this organization ?
 We will publish all the works done in T4G in this organization.
